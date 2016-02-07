@@ -20,10 +20,5 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii": "1.1.17"
-    },
-    "autoload": {
-        "classmap": [
-            "protected/"
-        ]
     }
 }

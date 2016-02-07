@@ -1,6 +1,14 @@
 Yii Framework Boilerplate Log
 =============================
 
+Version 1.0.1 Feb 02, 2016
+----------------------------
+
+* Fix composer.json autoload;
+* Fix repository name.
+
+
 Version 1.0.0 Feb 02, 2016
 ----------------------------
+
 Initial release

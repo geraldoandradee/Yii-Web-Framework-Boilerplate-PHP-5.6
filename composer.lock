@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fbb067ca38b3850c901dabfd08c8c710",
-    "content-hash": "0b0bf4cb9a4de6566c996e6904de23be",
+    "hash": "1dcf937bb83b912cf273b914dcc50df2",
+    "content-hash": "07c99f2267ae25341a72dcd9fddb0b6f",
     "packages": [
         {
             "name": "yiisoft/yii",
@@ -105,7 +105,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.1.0"
+        "php": ">=5.4.0"
     },
     "platform-dev": []
 }
