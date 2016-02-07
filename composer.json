@@ -1,0 +1,29 @@
+{
+    "name": "geraldoandradee/yii-boilerplate",
+    "description": "Yii Web Programming Framework Boilerplate",
+    "keywords": [
+        "yii",
+        "framework",
+        "boilerplate"
+    ],
+    "homepage": "http://dev.geraldoandrade.com/yii-boilerplate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geraldo Andrade",
+            "email": "geraldo@geraldoandrade.com",
+            "homepage": "http://www.geraldoandrade.com/",
+            "role": "Software Engineer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii": "1.1.17"
+    },
+    "autoload": {
+        "classmap": [
+            "protected/"
+        ]
+    }
+}
